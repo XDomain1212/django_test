@@ -1,0 +1,5 @@
+django
+requests
+pandas
+colorama
+bs4
